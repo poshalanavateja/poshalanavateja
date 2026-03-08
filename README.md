@@ -43,6 +43,6 @@ I enjoy building end-to-end intelligent systems—from training deep neural netw
 ### 📫 Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/poshalanavateja](https://www.linkedin.com/in/poshalanavateja/)
 - **Email:** poshalanavateja@gmail.com
-- **Resume:** [View my Resume](#)
+- **Resume:** [View my Resume](https://github.com/poshalanavateja/poshalanavateja/blob/main/Navateja-Resume.pdf)
 
 *Actively seeking AI/ML Research Internships.*
